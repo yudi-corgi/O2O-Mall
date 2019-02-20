@@ -1,0 +1,5 @@
+com\o2o\entity\ShopCategory.class
+com\o2o\entity\Area.class
+com\o2o\entity\Shop.class
+com\o2o\dao\ShopDao.class
+com\o2o\entity\PersonInfo.class
