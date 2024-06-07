@@ -3,9 +3,9 @@
 平台前端展示依赖于微信平台授权登录，后台则主要为商家店铺注册与管理
 
 ## 实现技术
-- 后端：Spring、SpringMVC、Mybatis、MySql、Redis(缓存)
+- 后端：Spring、Spring MVC、MyBatis
 - 前端：HTML、JavaScript、Bootstrap
-- 数据库：MySql、Redis(缓存)
-- 其它：c3p0(连接池)、Tomcat(Web 容器)
+- 数据库：MySQL、Redis
+- 其它：c3p0（连接池）、Tomcat（Web 容器）
 
 
